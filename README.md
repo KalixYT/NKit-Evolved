@@ -1,4 +1,4 @@
-# NKit
+# NKit Evolved, a fork a NKit v1.4
 
 Welcome to the NKit v1.4 code, provided as is.
 
